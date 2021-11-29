@@ -1,0 +1,1 @@
+<?php /**PATH B:\OpenServer\domains\Engine\resources\views/footer_get_start_section.blade.php ENDPATH**/ ?>
